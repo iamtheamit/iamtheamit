@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit
 - 👀 I’m interested in Web Designing/Development
-- 🌱 I’m currently learning Bootstarp
+- 🌱 I’m currently learning Bootstrap
 - 📫 How to reach me: https://iamtheamit.000webhostapp.com/
 
 <!---
