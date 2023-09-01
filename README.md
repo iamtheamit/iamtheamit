@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amit
 - 👀 I’m interested in Web Designing/Development
 - 🌱 I’m currently learning Bootstrap
-- 📫 How to reach me: https://iamtheamit.000webhostapp.com/
+- 📫 How to reach me: https://amits-portfolio.onrender.com/
 
 <!---
 iamtheamit/iamtheamit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
