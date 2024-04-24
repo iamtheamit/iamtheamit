@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Amit
-- 👀 I’m interested in Web Designing/Development
-- 🌱 I’m currently learning Bootstrap
+- 👀 I’m interested in Data Science and Data Analytics
 - 📫 How to reach me: https://amits-portfolio.onrender.com/
 
 <!---
