@@ -7,7 +7,7 @@ I’m a passionate **Full Stack Developer**, focused on solving real-world probl
 I’m currently working on:  
 - Building full-stack projects with **Angular**, **Golang**, **Django**, and **PostgreSQL**  
 - Creating user-friendly UIs using **Tailwind CSS** and **Material UI 3**  
-- Improving my problem-solving, DSA, and AI prompting skills  
+- Improving my problem-solving and DSA skills  
 
 ## 🛠️ Skills & Tools  
 <p align="left">
@@ -19,7 +19,7 @@ I’m currently working on:
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/AI_Prompting-8A2BE2?style=for-the-badge&logo=openai&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/AI%20Prompting-9A67EA?style=for-the-badge&logo=openai&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff" />
@@ -32,7 +32,6 @@ I’m currently working on:
 - Dockerizing full-stack apps and deployment  
 - Advanced Git commands and best practices  
 - PostgreSQL optimization and indexing  
-- AI prompting for enhanced productivity  
 - DSA for coding interviews  
 
 ## 📫 How to reach me:  
@@ -40,9 +39,16 @@ I’m currently working on:
 👉 [LinkedIn](https://www.linkedin.com/in/iamtheamit/)  
 👉 Email: iamakr0007@gmail.com  
 
-## 🔥 GitHub Streak  
+---
+
+## 📊 GitHub Activity & Stats  
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamtheamit&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtheamit&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&border_radius=10" alt="Amit's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/iamtheamit" alt="Amit's GitHub Contribution Calendar" />
 </p>
 
 ---
@@ -52,4 +58,4 @@ I’m currently working on:
 <!---
 iamtheamit/iamtheamit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->  
