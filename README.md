@@ -13,7 +13,6 @@ I’m currently working on:
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=ffffff" />
@@ -22,8 +21,6 @@ I’m currently working on:
   <img src="https://img.shields.io/badge/AI%20Prompting-9A67EA?style=for-the-badge&logo=openai&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
@@ -35,7 +32,6 @@ I’m currently working on:
 - DSA for coding interviews  
 
 ## 📫 How to reach me:  
-👉 [My Portfolio](https://amits-portfolio.onrender.com/)  
 👉 [LinkedIn](https://www.linkedin.com/in/iamtheamit/)  
 👉 Email: iamakr0007@gmail.com  
 
