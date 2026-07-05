@@ -1,57 +1,75 @@
-# 👋 Hi, I’m Amit Kumar Jha  
+# 👋 Hi, I'm Amit Kumar Jha
 
+## 💻 About Me
 
-## 🚀 About Me  
-I’m a passionate **Full Stack Developer**, focused on solving real-world problems through code and innovation.  
+I'm a **Backend Software Engineer** with 1.5+ years of experience building scalable SaaS platforms, AI-powered applications, and backend systems using **Go (Golang)**.
 
-I’m currently working on:  
-- Building full-stack projects with **Angular**, **Golang**, **Django**, and **PostgreSQL**  
-- Creating user-friendly UIs using **Tailwind CSS** and **Material UI 3**  
-- Improving my problem-solving and DSA skills  
+I enjoy designing reliable APIs, optimizing databases, solving production performance issues, and integrating modern AI technologies into real-world applications.
 
-## 🛠️ Skills & Tools  
+Currently, I'm working on:
+- 🚀 Building scalable backend services with **Go**, **PostgreSQL**, and **GraphQL**
+- 🤖 Developing AI-powered applications using **RAG**, **LLMs**, **Vector Embeddings**, and **LangChain**
+- 🔐 Designing secure authentication and authorization systems with **JWT** and **RBAC**
+- ☁️ Working with **AWS**, **Docker**, and modern backend architectures
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/AI%20Prompting-9A67EA?style=for-the-badge&logo=openai&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" />
-</p>
-
-## 🌱 Currently learning  
-- Advanced Golang for scalable backend development  
-- Dockerizing full-stack apps and deployment  
-- Advanced Git commands and best practices  
-- PostgreSQL optimization and indexing  
-- DSA for coding interviews  
-
-## 📫 How to reach me:  
-👉 [LinkedIn](https://www.linkedin.com/in/iamtheamit/)  
-👉 Email: iamakr0007@gmail.com  
-
----
-
-## 📊 GitHub Activity & Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtheamit&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&border_radius=10" alt="Amit's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/iamtheamit" alt="Amit's GitHub Contribution Calendar" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
 ---
 
-> *"Always curious, always building!"*  
+## 🚀 What I've Worked On
 
-<!---
-iamtheamit/iamtheamit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->  
+- ✅ Scalable REST & GraphQL APIs
+- ✅ AI-powered Real Estate Platform
+- ✅ RAG Pipelines & Vector Embeddings
+- ✅ JWT Authentication & RBAC
+- ✅ Database Query Optimization & Indexing
+- ✅ Backend Performance Tuning
+- ✅ AWS S3 & SES Integrations
+- ✅ Dockerized Backend Services
+- ✅ SaaS Platform Development
+
+---
+
+## 🌱 Currently Learning
+
+- Distributed Systems
+- Microservices Architecture
+- Kubernetes
+- Advanced PostgreSQL Performance Tuning
+- System Design
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/iamtheamit/
+
+📧 Email: **iamakr0007@gmail.com**
+
+🐙 GitHub: https://github.com/iamtheamit
+
+---
+
+> **"I enjoy building backend systems that are reliable, scalable, and solve real-world problems."**
