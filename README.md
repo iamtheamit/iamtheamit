@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amit Kumar Jha
+# 👋 Hi, I'm Amit Jha
 
 ## 💻 About Me
 
